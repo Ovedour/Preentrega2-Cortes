@@ -1,0 +1,14 @@
+.cart-box{
+    display: flex;
+}
+.cart-box p {
+    text-align: center;
+    color: white;
+    background-color: #667934;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+.material-symbols-outlined {
+ padding: 0px;
+}
